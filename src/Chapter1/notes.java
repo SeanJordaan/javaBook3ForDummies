@@ -29,7 +29,6 @@ public class notes {
     
     //Objects have state
     
-    
     //The type of an object determines what attributes the object has.
     //The combination of the values for all the attributes of an object is called the object’s state
     //Unlike its identity, an object’s state can — and usually does — change over its lifetime
@@ -65,6 +64,7 @@ public class notes {
     
     //Interfaces
     
+    //turing method...you turn the steering wheel wich is your interface 
     
     //An interface is a set of methods and fields that a class must provide to implement the interface.
     //Then a class that implements the interface provides code for each of the methods the interface defines
